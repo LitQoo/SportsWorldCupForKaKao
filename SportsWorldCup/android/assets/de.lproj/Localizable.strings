@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+
+"require_heart" = "[Heart] fehlt.";
+"require_coin" = "[Gold] fehlt.";
+"require_ruby" = "[Ruby] fehlt.";
+"opennewmap" = "Ab jetzt werden neue 5 Karte angeboten. Kannst du deine Kundenrezension schreiben?";
+"review" = "Kannst du deine Kundenrezension schreiben?";
+"netfail" = "Netzwerkverbindung ist misslungen.";
+"retrying" = "Es wird nochmals versucht.";
+"giftperhour" = "[GIFTCODE] kann innerhalb einer Stunde einmal verwendet werden.";
+"invalidgiftcode" = "[GIFTCODE] ist falsch.";
+"alreadyusegift" = "Dieser [GIFTCODE] ist schon verwendet.";
+"publishcode" = "[GIFTCODE] werden auf der Internetseite facebook.com/litqoo geteilt.";
+"rewardafterexe" = "Se puede obtener luego de ejecutar el juego.";
+"noreward" = "Es gibt keine Belohnungspunkte.";
+"exp" = "Doppelte Erfahrungspunkte werden geschenkt.";
+"shield" = "Der Misserfolg von Combo kann einmal verhindert werden.";
+"time" = "Mehrere Spielzeiten werden geschenkt.";
+"nohighhurdle" = "Die hohe Hürde wird beseitigt.";
+"wide" = "Das Blickfeld wird erweitert.";
+"nobird" = "Die Wahrscheinlichkeit, dass Vögel auftreten können, wird verringert.";
+"expand" = "Der Schussbereich wird erweitert.";
+"noshake" = "Das Zittern wird vermindert.";
+"windvalue" = "Der Wind wird mit Zahlen markiert.";
+"longguide" = "Die Führungslinie wird verlängert.";
+"tipin" = "Berühre dir den Ball, wenn der Ball aufspringt.";
+"yes" = "Yes";
+"no" = "No";
+"update" = "Die aktuelle Version wurde veröffentlicht. Möchtest du aktuallisieren?";
+"mustupdate" = "Das Spiel ist erst ermöglicht, wenn die Applikation aktuallisiert wird.";
+"usebackboard" = "Verwende das Backboard !";
+"nick_length" = "Gib deinen Spitznamen innerhalb 8 Buchstaben ein! ";
+"selectflag" = "Bitte geben Sie das Land ein.";

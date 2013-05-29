@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+/*
+ Localizable.strings
+ BasketWorldCup2
+ 
+ Created by ksoo k on 13. 1. 18..
+ 
+ */
+"require_heart" = "You don’t have enough [heart].";
+"require_coin" = "You don’t have enough [gold].";
+"require_ruby" = "You don’t have enough [ruby].";
+"opennewmap" = "A new map will be added now. Will you leave a review at the App Store?";
+"review" = "Will you leave a review at the App Store?";
+"netfail" = "You have failed to connect to the network.";
+"update" = "A new version has been released. Do you want to update?";
+"mustupdate" = "You can only play after updating to the newest version.";
+"usebackboard" = "Use the backboard";
+"retrying" = "Retrying.";
+"giftperhour" = "You can only use one GIFTCODE per hour.";
+"invalidgiftcode" = "This is an incorrect GIFTCODE.";
+"alreadyusegift" = "This GIFTCODE has already been used.";
+"publishcode" = "We are distributing GIFTCODEs at facebook.com/litqoo";
+"rewardafterexe" = "You can receive awards after running the game.";
+"noreward" = "There are no awards.";
+"exp" = "Multiplies your experience by 2";
+"shield" = "Saves you from breaking a combo once";
+"time" = "Gives you more game time";
+"nohighhurdle" = "Gets rid of high hurdles";
+"wide" = "Widens view";
+"nobird" = "Decreases possibility of birds appearing";
+"expand" = "Increases control area";
+"noshake" = "Decreases shaking";
+"windvalue" = "Marks wind velocity as a number";
+"longguide" = "Lengthens the guide line";
+"tipin" = "When the ball bounces out, touch the ball.";
+"yes" = "Yes";
+"no" = "No";
+"nick_length" = "Your nickname must be less than 8 characters in length.";
+"selectflag" = "Choose your nationality.";
+////////
+

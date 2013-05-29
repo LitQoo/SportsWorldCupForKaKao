@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="require_heart">[Heart] n’est pas suffisant. </string>
+<string name="require_coin">[Gold] n’est pas suffisant.</string>
+<string name="require_ruby">[Ruby] n’est pas suffisant.</string>
+<string name="opennewmap">A new map will be added now. Will you leave a review at the App Store?</string>
+<string name="review">Will you leave a review at the App Store?</string>
+<string name="netfail">La connexion au réseau est ratée.</string>
+<string name="retrying">Réessayez</string>
+<string name="giftperhour">Possible d’utiliser un seul [GIFTCODE] pendant une heure.</string>
+<string name="invalidgiftcode">Ce [GIFTCODE] n’est pas correct.</string>
+<string name="alreadyusegift">Ce [GIFTCODE] a été déjà utilisé.</string>
+<string name="publishcode">[GIFTCODE] sera distribué sur facebook.com/litqoo.</string>
+<string name="rewardafterexe">La récompense sera donnée après le démarrage du jeu.</string>
+<string name="noreward">Il n’y a pas d’historique de récompense.</string>
+<string name="exp">La valeur d’expérience sera doublement attribuée.</string>
+<string name="shield">L’insuccès de combo sera évité une fois.</string>
+<string name="time">La durée du jeu sera fournie davantage.</string>
+<string name="nohighhurdle">Supprimer les hautes haies.</string>
+<string name="wide">Elargir le champ visual.</string>
+<string name="nobird">Réduire la possibilité de la sortie des oiseaux.</string>
+<string name="expand">Agrandir le champ de visée.</string>
+<string name="noshake">L’oscilliation sera réduite.</string>
+<string name="windvalue">Le vent sera marqué par le chiffre.</string>
+<string name="longguide">La ligne de guidage sera plus alongée.</string>
+<string name="tipin">Touchez les ballons à leurs rebondissements.</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="update">Une nouvelle version est sortie. Voulez- vous la télécharger?</string>
+<string name="mustupdate">Possible de faire du jeu suite au téléchargement de la nouvelle version.</string>
+<string name="usebackboard">Utiliser le Backboard.</string>
+<string name="nick_length">Entrez le pseudonyme en maximum 8 caractères.</string>
+<string name="selectflag">Sélectionnez le pays.</string>
+    
+
+</resources>

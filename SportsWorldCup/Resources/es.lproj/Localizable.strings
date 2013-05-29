@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+
+"require_heart" = "No tiene suficiente [heart]";
+"require_coin" = "No tiene suficiente [Gold]";
+"require_ruby" = "No tiene suficiente [ruby]";
+"opennewmap" = "En adelante se sumarán nuevos mapas . ¿Deseas dejar comentarios en el AppStore?";
+"review" = "¿Deseas dejar comentarios en el AppStore?";
+"netfail" = "No ha podido conectarse a la red.";
+"retrying" = "Intentando nuevamente.";
+"giftperhour" = "Se pude utilizar solo un [GIFTCODE] por hora.";
+"invalidgiftcode" = "[GIFTCODE] incorrecto.";
+"alreadyusegift" = "[GIFTCODE] ya utilizado.";
+"publishcode" = "[GIFTCODE] sera distribué sur facebook.com/litqoo.";
+"rewardafterexe" = "Se puede obtener luego de ejecutar el juego.";
+"noreward" = "No existe historial de recompensa.";
+"exp" = "Doble de experiencia.";
+"shield" = "Evita una vez el fallo de combo.";
+"time" = "Más tiempo de juego.";
+"nohighhurdle" = "Eliminación de la valla más alta.";
+"wide" = "Ampliación de la visibilidad.";
+"nobird" = "Reducción de la probabilidad de aparición del pájaro.";
+"expand" = "Ampliación de la zona de puntería.";
+"noshake" = "Reducción de la agitación.";
+"windvalue" = "Marca el viento en números.";
+"longguide" = "Alarga la línea guía.";
+"tipin" = "Toque el balón cuando éste rebote.";
+"yes" = "Yes";
+"no" = "No";
+"update" = "Existe una versión actualizada. ¿Desea actualizar?";
+"mustupdate" = "Se necesita actualizar el juego para ejecutarlo.";
+"usebackboard" = "Utilice el tablero.";
+"nick_length" = "El apodo debe ser de menos de 8 caracteres.";
+"selectflag" = "Escoje el país.";

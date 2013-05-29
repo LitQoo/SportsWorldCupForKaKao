@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+
+"require_heart" = "[Heart] n’est pas suffisant. ";
+"require_coin" = "[Gold] n’est pas suffisant.";
+"require_ruby" = "[Ruby] n’est pas suffisant.";
+"opennewmap" = "A new map will be added now. Will you leave a review at the App Store?";
+"review" = "Will you leave a review at the App Store?";
+"netfail" = "La connexion au réseau est ratée.";
+"retrying" = "Réessayez";
+"giftperhour" = "Possible d’utiliser un seul [GIFTCODE] pendant une heure.";
+"invalidgiftcode" = "Ce [GIFTCODE] n’est pas correct.";
+"alreadyusegift" = "Ce [GIFTCODE] a été déjà utilisé.";
+"publishcode" = "[GIFTCODE] sera distribué sur facebook.com/litqoo.";
+"rewardafterexe" = "La récompense sera donnée après le démarrage du jeu.";
+"noreward" = "Il n’y a pas d’historique de récompense.";
+"exp" = "La valeur d’expérience sera doublement attribuée.";
+"shield" = "L’insuccès de combo sera évité une fois.";
+"time" = "La durée du jeu sera fournie davantage.";
+"nohighhurdle" = "Supprimer les hautes haies.";
+"wide" = "Elargir le champ visual.";
+"nobird" = "Réduire la possibilité de la sortie des oiseaux.";
+"expand" = "Agrandir le champ de visée.";
+"noshake" = "L’oscilliation sera réduite.";
+"windvalue" = "Le vent sera marqué par le chiffre.";
+"longguide" = "La ligne de guidage sera plus alongée.";
+"tipin" = "Touchez les ballons à leurs rebondissements.";
+"yes" = "Yes";
+"no" = "No";
+"update" = "Une nouvelle version est sortie. Voulez- vous la télécharger?";
+"mustupdate" = "Possible de faire du jeu suite au téléchargement de la nouvelle version.";
+"usebackboard" = "Utiliser le Backboard.";
+"nick_length" = "Entrez le pseudonyme en maximum 8 caractères.";
+"selectflag" = "Sélectionnez le pays.";

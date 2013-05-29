@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="require_heart">[Heart] è insufficiente. </string>
+<string name="require_coin">[Gold] è insufficiente.</string>
+<string name="require_ruby">[Ruby] è insufficiente.</string>
+<string name="opennewmap">Ti regaliamo altre 5 mappa da adesso. Vuoi lasciare i commenti?</string>
+<string name="review">Vuoi lasciare i commenti?</string>
+<string name="netfail">Collegamento a Network non riuscito.</string>
+<string name="retrying">Riproviamo.</string>
+<string name="giftperhour">[GIFTCODE] può essere utilizzato entro un’ora.</string>
+<string name="invalidgiftcode">[GIFTCODE] non corretto. </string>
+<string name="alreadyusegift">[GIFTCODE] già utilizzato.</string>
+<string name="publishcode">Distribuiamo [GIFTCODE] su facebook.com/litqoo.</string>
+<string name="rewardafterexe">Puoi prendere la compensazione dopo aver eseguito il gioco.</string>
+<string name="noreward">Nessuna compensazione.</string>
+<string name="exp">Viene regalato il doppio del valore dell’esperienza.</string>
+<string name="shield">Si previene una volta il fallimento in Combo.</string>
+<string name="time">Viene Regalato più tempo di gioco. </string>
+<string name="nohighhurdle">Si rimuove l’ostacolo alto.</string>
+<string name="wide">Si allarga il campo visivo. </string>
+<string name="nobird">Si riduce la possibilità che escano uccelli.</string>
+<string name="expand">Si allarga il raggio di puntamento. </string>
+<string name="noshake">Si riduce il traballamento.</string>
+<string name="windvalue">Il vento viene rappresentato in numeri.</string>
+<string name="longguide">Si allunga la linea di guida.</string>
+<string name="tipin">Toccare la palla quando salta fuori.</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="update">E’ uscita l’ultima versione. Vuoi aggiornarla?</string>
+<string name="mustupdate">E’ possibile giocare solo con la versione aggiornata.</string>
+<string name="usebackboard">Usare il tabellone. </string>
+<string name="nick_length">Inserire il pseudonimo (fino a 8 caratteri).</string>
+<string name="selectflag">Choose your nationality.</string>
+    
+</resources>

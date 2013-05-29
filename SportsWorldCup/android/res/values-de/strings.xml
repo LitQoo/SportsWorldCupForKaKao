@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="require_heart">[Heart] fehlt.</string>
+<string name="require_coin">[Gold] fehlt.</string>
+<string name="require_ruby">[Ruby] fehlt.</string>
+<string name="opennewmap">Ab jetzt werden neue 5 Karte angeboten. Kannst du deine Kundenrezension schreiben?</string>
+<string name="review">Kannst du deine Kundenrezension schreiben?</string>
+<string name="netfail">Netzwerkverbindung ist misslungen.</string>
+<string name="retrying">Es wird nochmals versucht.</string>
+<string name="giftperhour">[GIFTCODE] kann innerhalb einer Stunde einmal verwendet werden.</string>
+<string name="invalidgiftcode">[GIFTCODE] ist falsch.</string>
+<string name="alreadyusegift">Dieser [GIFTCODE] ist schon verwendet.</string>
+<string name="publishcode">[GIFTCODE] werden auf der Internetseite facebook.com/litqoo geteilt.</string>
+<string name="rewardafterexe">Se puede obtener luego de ejecutar el juego.</string>
+<string name="noreward">Es gibt keine Belohnungspunkte.</string>
+<string name="exp">Doppelte Erfahrungspunkte werden geschenkt.</string>
+<string name="shield">Der Misserfolg von Combo kann einmal verhindert werden.</string>
+<string name="time">Mehrere Spielzeiten werden geschenkt.</string>
+<string name="nohighhurdle">Die hohe Hürde wird beseitigt.</string>
+<string name="wide">Das Blickfeld wird erweitert.</string>
+<string name="nobird">Die Wahrscheinlichkeit, dass Vögel auftreten können, wird verringert.</string>
+<string name="expand">Der Schussbereich wird erweitert.</string>
+<string name="noshake">Das Zittern wird vermindert.</string>
+<string name="windvalue">Der Wind wird mit Zahlen markiert.</string>
+<string name="longguide">Die Führungslinie wird verlängert.</string>
+<string name="tipin">Berühre dir den Ball, wenn der Ball aufspringt.</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="update">Die aktuelle Version wurde veröffentlicht. Möchtest du aktuallisieren?</string>
+<string name="mustupdate">Das Spiel ist erst ermöglicht, wenn die Applikation aktuallisiert wird.</string>
+<string name="usebackboard">Verwende das Backboard !</string>
+<string name="nick_length">Gib deinen Spitznamen innerhalb 8 Buchstaben ein! </string>
+<string name="selectflag">Bitte geben Sie das Land ein.</string>
+
+</resources>

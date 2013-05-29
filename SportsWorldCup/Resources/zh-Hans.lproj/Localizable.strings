@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+
+"require_heart" = "【Heart】不足. ";
+"require_coin" = "【Gold】不足";
+"require_ruby" = "【ruby】不足";
+"opennewmap" = "从现在开始增加新的map。是否要在app商店留下评论？";
+"review" = "是否要在app商店留下评论？";
+"netfail" = "网络连接失败";
+"retrying" = "再试一次";
+"giftperhour" = "[GIFTCODE]1小时只能使用一次";
+"invalidgiftcode" = "是不正确的[GIFTCODE]";
+"alreadyusegift" = "是以使用过的 [GIFTCODE]";
+"publishcode" = "在facebook.com/litqoo里划分[GIFTCODE]";
+"rewardafterexe" = "执行游戏后可得到赔偿金";
+"noreward" = "安装后请按这个妞";
+"exp" = "没有赔偿金明细";
+"shield" = "阻止一次失败的组合";
+"time" = "送更多的游戏时间";
+"nohighhurdle" = "解除高跨栏";
+"wide" = "拓宽眼界";
+"nobird" = "减少出现鸟的机率";
+"expand" = "扩大瞄准范围";
+"noshake" = "减少摆动";
+"windvalue" = "风用数字来表示";
+"longguide" = "引导现更长";
+"tipin" = "弹出球时请触摸球";
+"yes" = "Yes";
+"no" = "No";
+"update" = "推出最新版本。升级吗？";
+"mustupdate" = "升级到最新版本才可能玩";
+"usebackboard" = "请使用篮板";
+"nick_length" = "输入8字以内的绰号";
+"selectflag" = "请选择国家。";

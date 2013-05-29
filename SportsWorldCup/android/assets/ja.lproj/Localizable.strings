@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+"require_heart" = "[Heart]が足りません。 ";
+"require_coin" = "[Gold]が足りません。";
+"require_ruby" = "[Ruby]が足りません。";
+"opennewmap" = "新しい地図を5個差し上げます。 コメントを残してください。";
+"review" = "コメントを残してください。";
+"netfail" = "ネットワークに連結できませんでした。";
+"retrying" = "もう一度挑戦してみます。";
+"giftperhour" = "[GIFTCODE]は同時に一つだけ使えます。";
+"invalidgiftcode" = "正しくない[GIFTCODE]です。";
+"alreadyusegift" = "既に使っている[GIFTCODE]です。";
+"publishcode" = "facebook.com/litqooで[GIFTCODE]を分けて差し上げます。";
+"rewardafterexe" = "ゲーム実行後、保証を貰えます。";
+"noreward" = "保証内訳がありません。";
+"exp" = "経験数を二倍差し上げます。";
+"shield" = "コンボ失敗を一度防いであげます。";
+"time" = "ゲーム時間をもっと差し上げます。";
+"nohighhurdle" = "高いハードルを除去します。";
+"wide" = "視野を広げます。";
+"nobird" = "鳥が出てくる確率を減少させます。";
+"expand" = "照準範囲を拡大します。";
+"noshake" = "揺れが減少します。";
+"windvalue" = "風を数字で表示します。";
+"longguide" = "ガイドの線がもっと長くなります。";
+"tipin" = "ボールが弾け出てくる時、ボールにタッチしてください。";
+"yes" = "Yes";
+"no" = "No";
+"update" = "最新バージョンがリリースされました。アップデートしますか?";
+"mustupdate" = "最新バージョンにアップデートするとプレーできます。";
+"usebackboard" = "バックボードを使ってください。";
+"nick_length" = "ニックネームは8字以下で入力してください。";
+"selectflag" = "国家を選択してください。 ";

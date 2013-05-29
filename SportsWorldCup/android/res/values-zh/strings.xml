@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+<string name="require_heart">【Heart】不足. </string>
+<string name="require_coin">【Coin】不足</string>
+<string name="require_ruby">【Ruby】不足</string>
+<string name="opennewmap">从现在开始增加新的map。是否要在app商店留下评论？</string>
+<string name="review">是否要在app商店留下评论？</string>
+<string name="netfail">网络连接失败</string>
+<string name="retrying">再试一次</string>
+<string name="giftperhour">[GIFTCODE]1小时只能使用一次</string>
+<string name="invalidgiftcode">是不正确的[GIFTCODE]</string>
+<string name="alreadyusegift">是以使用过的 [GIFTCODE]</string>
+<string name="publishcode">在facebook.com/litqoo里划分[GIFTCODE]</string>
+<string name="rewardafterexe">执行游戏后可得到赔偿金</string>
+<string name="noreward">安装后请按这个妞</string>
+<string name="exp">没有赔偿金明细</string>
+<string name="shield">阻止一次失败的组合</string>
+<string name="time">送更多的游戏时间</string>
+<string name="nohighhurdle">解除高跨栏</string>
+<string name="wide">拓宽眼界</string>
+<string name="nobird">减少出现鸟的机率</string>
+<string name="expand">扩大瞄准范围</string>
+<string name="noshake">减少摆动</string>
+<string name="windvalue">风用数字来表示</string>
+<string name="longguide">引导现更长</string>
+<string name="tipin">弹出球时请触摸球</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="update">推出最新版本。升级吗？</string>
+<string name="mustupdate">升级到最新版本才可能玩</string>
+<string name="usebackboard">请使用篮板</string>
+<string name="nick_length">输入8字以内的绰号</string>
+<string name="selectflag">请选择国家。</string>
+
+    </resources>

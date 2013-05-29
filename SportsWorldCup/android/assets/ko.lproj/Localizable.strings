@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  SportsWorldCup
+
+  Created by ksoo k on 13. 1. 22..
+
+*/
+"require_heart" = "[하트]가 부족합니다.";
+"require_coin" = "[골드]가 부족합니다.";
+"require_ruby" = "[루비]가 부족합니다.";
+"opennewmap" = "지금 새로운 맵이 추가됩니다. 앱스토어에 리뷰를 남겨주시겠습니까?";
+"review" = "앱스토어에 리뷰를 남겨주시겠습니까?";
+"netfail" = "네트워크 연결에 실패하였습니다.";
+"retrying" = "다시 시도합니다.";
+"giftperhour" = "[GIFTCODE]는 한 시간에 하나만 사용할 수 있습니다. ";
+"invalidgiftcode" = "올바르지 않은 [GIFTCODE]입니다. ";
+"alreadyusegift" = "이미 사용한 [GIFTCODE]입니다. ";
+"publishcode" = "facebook.com/litqoo에서 [GIFTCODE]를 나눠드립니다.";
+"rewardafterexe" = "게임 실행 후 보상을 받을 수 있습니다. ";
+"noreward" = "보상내역이 없습니다.";
+"exp" = "경험치를 두 배로 드립니다.";
+"shield" = "콤보 실패를 한번 막아줍니다.";
+"time" = "게임시간을 더 드립니다.";
+"nohighhurdle" = "높은 허들을 제거합니다.";
+"wide" = "시야를 넓힙니다.";
+"nobird" = "새가 나올 확률을 감소시킵니다.";
+"expand" = "조준범위를 확대합니다.";
+"noshake" = "흔들림이 감소합니다.";
+"windvalue" = "바람을 숫자로 표시합니다.";
+"longguide" = "가이드 선이 더 길어집니다.";
+"tipin" = "공이 튕겨져 나올 때 공을 터치하세요.";
+"yes" = "예";
+"no" = "아니오";
+"update" = "최신버전이 출시되었습니다. 업데이트 하시겠습니까? ";
+"mustupdate" = "최신버전으로 업데이트를 해야 플레이가 가능합니다. ";
+"usebackboard" = "백보드를 사용하세요.";
+"nick_length" = "닉네임은 8자 이하로 입력해주세요.";
+"selectflag" = "국기를 선택해주세요.";

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="require_heart">No tiene suficiente [heart]</string>
+<string name="require_coin">No tiene suficiente [gold]</string>
+<string name="require_ruby">No tiene suficiente [ruby]</string>
+<string name="opennewmap">En adelante se sumarán nuevos mapas . ¿Deseas dejar comentarios en el AppStore?</string>
+<string name="review">¿Deseas dejar comentarios en el AppStore?</string>
+<string name="netfail">No ha podido conectarse a la red.</string>
+<string name="retrying">Intentando nuevamente.</string>
+<string name="giftperhour">Se pude utilizar solo un [GIFTCODE] por hora.</string>
+<string name="invalidgiftcode">[GIFTCODE] incorrecto.</string>
+<string name="alreadyusegift">[GIFTCODE] ya utilizado.</string>
+<string name="publishcode">[GIFTCODE] sera distribué sur facebook.com/litqoo.</string>
+<string name="rewardafterexe">Se puede obtener luego de ejecutar el juego.</string>
+<string name="noreward">No existe historial de recompensa.</string>
+<string name="exp">Doble de experiencia.</string>
+<string name="shield">Evita una vez el fallo de combo.</string>
+<string name="time">Más tiempo de juego.</string>
+<string name="nohighhurdle">Eliminación de la valla más alta.</string>
+<string name="wide">Ampliación de la visibilidad.</string>
+<string name="nobird">Reducción de la probabilidad de aparición del pájaro.</string>
+<string name="expand">Ampliación de la zona de puntería.</string>
+<string name="noshake">Reducción de la agitación.</string>
+<string name="windvalue">Marca el viento en números.</string>
+<string name="longguide">Alarga la línea guía.</string>
+<string name="tipin">Toque el balón cuando éste rebote.</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="update">Existe una versión actualizada. ¿Desea actualizar?</string>
+<string name="mustupdate">Se necesita actualizar el juego para ejecutarlo.</string>
+<string name="usebackboard">Utilice el tablero.</string>
+<string name="nick_length">El apodo debe ser de menos de 8 caracteres.</string>
+<string name="selectflag">Escoje el país.</string>
+
+</resources>

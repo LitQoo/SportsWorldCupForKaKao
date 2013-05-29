@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="require_heart">You don’t have enough [heart].</string>
+<string name="require_coin">You don’t have enough [gold].</string>
+<string name="require_ruby">You don’t have enough [ruby].</string>
+<string name="opennewmap">A new map will be added now. Will you leave a review at the App Store?</string>
+<string name="review">Will you leave a review at the App Store?</string>
+<string name="netfail">You have failed to connect to the network.</string>
+<string name="update">A new version has been released. Do you want to update?</string>
+<string name="mustupdate">You can only play after updating to the newest version.</string>
+<string name="usebackboard">Use the backboard</string>
+<string name="retrying">Retrying.</string>
+<string name="giftperhour">You can only use one GIFTCODE per hour.</string>
+<string name="invalidgiftcode">This is an incorrect GIFTCODE.</string>
+<string name="alreadyusegift">This GIFTCODE has already been used.</string>
+<string name="publishcode">We are distributing GIFTCODEs at facebook.com/litqoo</string>
+<string name="rewardafterexe">You can receive awards after running the game.</string>
+<string name="noreward">There are no awards.</string>
+<string name="exp">Multiplies your experience by 2</string>
+<string name="shield">Saves you from breaking a combo once</string>
+<string name="time">Gives you more game time</string>
+<string name="nohighhurdle">Gets rid of high hurdles</string>
+<string name="wide">Widens view</string>
+<string name="nobird">Decreases possibility of birds appearing</string>
+<string name="expand">Increases control area</string>
+<string name="noshake">Decreases shaking</string>
+<string name="windvalue">Marks wind velocity as a number</string>
+<string name="longguide">Lengthens the guide line</string>
+<string name="tipin">When the ball bounces out, touch the ball.</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="nick_length">Your nickname must be less than 8 characters in length.</string>
+<string name="selectflag">Choose your nationality.</string>
+
+</resources>
