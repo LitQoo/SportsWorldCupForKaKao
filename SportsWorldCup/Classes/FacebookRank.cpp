@@ -124,7 +124,7 @@ bool FacebookRank::init()
 	thiz->addChild(reqCount, 3);
 	{
 		CCMenuItem* invite = CCMenuItemImage::itemFromNormalImage("main_invite.png", "main_invite.png",
-																   this, menu_selector(FacebookRank::COUNTRYRANK));
+																   this, menu_selector(FacebookRank::FRIENDINVITE));
 		invite->setPosition(ccp(233, 25));
 		_menu->addChild(invite, 2);
 		
@@ -166,7 +166,7 @@ void FacebookRank::update(ccTime dt)
 	}
 	
 }
-void FacebookRank::COUNTRYRANK(CCObject*)
+void FacebookRank::FRIENDINVITE(CCObject*)
 {
 	CCNotificationCenter::sharedNotifCenter()->postNotification("showInviteFriendWindow");
 	KSoundEngine::sharedEngine()->playSound("select.mp3");

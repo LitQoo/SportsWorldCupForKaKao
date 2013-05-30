@@ -1,20 +1,20 @@
 //
-//  CountryRank.h
+//  FriendInvite.h
 //  SportsWorldCup
 //
 //  Created by ksoo k on 13. 2. 28..
 //
 //
 
-#ifndef __SportsWorldCup__CountryRank__
-#define __SportsWorldCup__CountryRank__
+#ifndef __SportsWorldCup__FriendInvite__
+#define __SportsWorldCup__FriendInvite__
 #include "cocos2d.h"
 #include "JsonBox.h"
 #include "UIMediator.h"
 USING_NS_CC;
 
 
-class CountryRank : public CCSprite, public UIColleague
+class FriendInvite : public CCSprite, public UIColleague
 {
 private:
 	struct __POSITION{
@@ -25,7 +25,7 @@ private:
 	CCSprite* thiz;
 	UIMediator* mediator;
 public:
-	CountryRank()
+	FriendInvite()
 	{
 		position.user[0] = ccp(23, 220);
 		position.user[1] = ccp(23, 203);
@@ -60,11 +60,11 @@ public:
 		position.flag[8] = ccp(132, 85);
 		position.flag[9] = ccp(132, 68);
 	}
-	virtual ~CountryRank();
+	virtual ~FriendInvite();
 	virtual bool init();
-	static CountryRank* node(UIMediator *m)
+	static FriendInvite* node(UIMediator *m)
 	{
-		CountryRank *pRet = new CountryRank();
+		FriendInvite *pRet = new FriendInvite();
 		pRet->setMediator(m);
 		if (pRet && pRet->init())
 		{
@@ -87,4 +87,4 @@ public:
 	void INVITEFRIEND(CCObject*);
 };
 
-#endif /* defined(__SportsWorldCup__CountryRank__) */
+#endif /* defined(__SportsWorldCup__FriendInvite__) */

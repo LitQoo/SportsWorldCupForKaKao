@@ -337,9 +337,9 @@ void SWIntro::afterInit()
 	
 	
 	
-	countryRank = CountryRank::node(this);
-	countryRank->setPosition(ccp(143, 500));
-	addChild(countryRank, 3);
+	friendInvite = FriendInvite::node(this);
+	friendInvite->setPosition(ccp(143, 500));
+	addChild(friendInvite, 3);
 	
 	postBox = FacebookPost::node(this);
 	postBox->setPosition(ccp(200, 500));
@@ -765,7 +765,7 @@ void SWIntro::showRank()
 		}
 		else
 		{
-			showCountryRank();
+			showFriendInvite();
 		}
 	}
 	
@@ -1381,7 +1381,7 @@ void SWIntro::showBackToFacebook(){
 		FBConnector::get()->getRequests(facebookRank, fb_selector(FacebookRank::getRequestCount));
 	}
 }
-void SWIntro::showCountryRank(){
+void SWIntro::showFriendInvite(){
 	if(checkBeforeMoving() == false)
 		return;
 	
@@ -1393,9 +1393,9 @@ void SWIntro::showCountryRank(){
 	
 	
 	KSoundEngine::sharedEngine()->playSound("slot.mp3");
-	countryRank->setPosition(ccp(143, -144));
-	countryRank->runAction(CCMoveTo::actionWithDuration(0.5f, position.CONTENT));
-	catchingColleague = countryRank;
+	friendInvite->setPosition(ccp(143, -144));
+	friendInvite->runAction(CCMoveTo::actionWithDuration(0.5f, position.CONTENT));
+	catchingColleague = friendInvite;
 }
 void SWIntro::showFacebookPost(){
 	if(checkBeforeMoving() == false)
@@ -1810,9 +1810,9 @@ void SWIntro::showInviteFriendWinndow()
 	startGameBtn->runAction(CCSequence::actionOneTwo(CCDelayTime::actionWithDuration(0.2f), CCMoveBy::actionWithDuration(0.3f, ccp(300, 0))));
 	
 	KSoundEngine::sharedEngine()->playSound("slot.mp3");
-	countryRank->setPosition(ccp(143, -144));
-	countryRank->runAction(CCMoveTo::actionWithDuration(0.5f, position.CONTENT));
-	catchingColleague = countryRank;
+	friendInvite->setPosition(ccp(143, -144));
+	friendInvite->runAction(CCMoveTo::actionWithDuration(0.5f, position.CONTENT));
+	catchingColleague = friendInvite;
 	
 	
 //	showInviteEvent();

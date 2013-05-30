@@ -63,7 +63,7 @@ public:
 		} 
 	}
 	void facebookGetScoresFinish(JsonBox::Value v2);
-	void COUNTRYRANK(CCObject*);
+	void FRIENDINVITE(CCObject*);
 	void VIEWPROFILE(CCObject*);
 	void CLOSEPROFILE(CCObject*);
 	void finishGetWeek(JsonBox::Object js);

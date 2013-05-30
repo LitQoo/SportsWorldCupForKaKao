@@ -6,7 +6,7 @@
 //
 //
 
-#include "CountryRank.h"
+#include "FriendInvite.h"
 #include <sstream>
 #include "KS_Util.h"
 #include "Bridge.h"
@@ -18,7 +18,7 @@
 using namespace std;
 
 
-bool CountryRank::init()
+bool FriendInvite::init()
 {
 	CCSprite::init();
 	
@@ -36,7 +36,7 @@ bool CountryRank::init()
 	{
 		
 		CCMenuItem* item = CCMenuItemImage::itemFromNormalImage("main_font_back.png", "main_font_back_down.png",
-																this, menu_selector(CountryRank::FACEBOOKRANK));
+																this, menu_selector(FriendInvite::FACEBOOKRANK));
 		item->setPosition(ccp(75, 25));
 		_menu->addChild(item, 2);
 //		item->runAction(
@@ -45,7 +45,7 @@ bool CountryRank::init()
 	}
 	{
 		CCMenuItem* item = CCMenuItemImage::itemFromNormalImage("invitelist.png", "invitelist.png",
-																this, menu_selector(CountryRank::INVITEFRIEND));
+																this, menu_selector(FriendInvite::INVITEFRIEND));
 		item->setPosition(ccp(135, 150));
 		_menu->addChild(item, 2);
 		
@@ -53,18 +53,18 @@ bool CountryRank::init()
 	return true;
 }
 
-void CountryRank::INVITEFRIEND(CCObject*)
+void FriendInvite::INVITEFRIEND(CCObject*)
 {
 	KSoundEngine::sharedEngine()->playSound("select.mp3");
 	CCNotificationCenter::sharedNotifCenter()->postNotification("inviteFriend");
 }
 
-void CountryRank::FACEBOOKRANK(CCObject*)
+void FriendInvite::FACEBOOKRANK(CCObject*)
 {
 	KSoundEngine::sharedEngine()->playSound("select.mp3");
 	mediator->showFacebookRank();
 }
-CountryRank::~CountryRank()
+FriendInvite::~FriendInvite()
 {
 	//graphdog->removeCommand(this);
 }

@@ -14,7 +14,7 @@ class IntroHead;
 class FacebookRank;
 class FacebookPost;
 class IntroMain;
-class CountryRank;
+class FriendInvite;
 #include "cocos2d.h"
 USING_NS_CC;
 //#include "IntroHead.h"
@@ -28,7 +28,7 @@ class UIMediator
 public:
 	virtual void showFacebookRank() = 0;
 	virtual void showBackToFacebook() = 0;
-	virtual void showCountryRank() = 0;
+	virtual void showFriendInvite() = 0;
 	virtual void showFacebookPost() = 0;
 	virtual void showRank() = 0;
 	virtual void showRankWithMenu() = 0;

@@ -182,7 +182,7 @@
 		D71E7A3D174385B2008D1E0D /* sk_grass3.png in Resources */ = {isa = PBXBuildFile; fileRef = D71E7A3A174385B2008D1E0D /* sk_grass3.png */; };
 		D728E79216E4359700C36280 /* main_mini_countryrank.png in Resources */ = {isa = PBXBuildFile; fileRef = D728E79016E4359700C36280 /* main_mini_countryrank.png */; };
 		D728E79316E4359700C36280 /* main_mini_facebookrank.png in Resources */ = {isa = PBXBuildFile; fileRef = D728E79116E4359700C36280 /* main_mini_facebookrank.png */; };
-		D728E79616E44DC300C36280 /* CountryRank.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D7A0CB3116DF1801002EF328 /* CountryRank.cpp */; };
+		D728E79616E44DC300C36280 /* FriendInvite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D7A0CB3116DF1801002EF328 /* FriendInvite.cpp */; };
 		D728E79716E44DC500C36280 /* FacebookRank.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D7A0CB2E16DF17E9002EF328 /* FacebookRank.cpp */; };
 		D728E79E16E588AD00C36280 /* FacebookPost.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D728E79C16E588AC00C36280 /* FacebookPost.cpp */; };
 		D728E7A116E5A10100C36280 /* main_font_back.png in Resources */ = {isa = PBXBuildFile; fileRef = D728E79F16E5A10100C36280 /* main_font_back.png */; };
@@ -1875,8 +1875,8 @@
 		D7A0CB2C16DEFA5B002EF328 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Resources/Default-568h@2x.png"; sourceTree = "<group>"; };
 		D7A0CB2E16DF17E9002EF328 /* FacebookRank.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; name = FacebookRank.cpp; path = Classes/FacebookRank.cpp; sourceTree = "<group>"; };
 		D7A0CB2F16DF17ED002EF328 /* FacebookRank.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FacebookRank.h; path = Classes/FacebookRank.h; sourceTree = "<group>"; };
-		D7A0CB3116DF1801002EF328 /* CountryRank.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CountryRank.cpp; path = Classes/CountryRank.cpp; sourceTree = "<group>"; };
-		D7A0CB3216DF1804002EF328 /* CountryRank.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CountryRank.h; path = Classes/CountryRank.h; sourceTree = "<group>"; };
+		D7A0CB3116DF1801002EF328 /* FriendInvite.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FriendInvite.cpp; path = Classes/FriendInvite.cpp; sourceTree = "<group>"; };
+		D7A0CB3216DF1804002EF328 /* FriendInvite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FriendInvite.h; path = Classes/FriendInvite.h; sourceTree = "<group>"; };
 		D7A0CB3416DF5EBC002EF328 /* main_title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = main_title.png; path = Resources/main_title.png; sourceTree = "<group>"; };
 		D7A0CB3516DF5EBD002EF328 /* main_titleback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = main_titleback.png; path = Resources/main_titleback.png; sourceTree = "<group>"; };
 		D7A1B28A16E6E3DE0085EA15 /* unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = unknown.png; path = Resources/unknown.png; sourceTree = "<group>"; };
@@ -3804,8 +3804,8 @@
 				D7B3CCB416C0E78B001114F1 /* IntroMain.h */,
 				D70D55AA16E5E42F00D7D662 /* UIMediator.cpp */,
 				D70D55AB16E5E42F00D7D662 /* UIMediator.h */,
-				D7A0CB3116DF1801002EF328 /* CountryRank.cpp */,
-				D7A0CB3216DF1804002EF328 /* CountryRank.h */,
+				D7A0CB3116DF1801002EF328 /* FriendInvite.cpp */,
+				D7A0CB3216DF1804002EF328 /* FriendInvite.h */,
 				D7A0CB2716DDE6B9002EF328 /* GameOver.cpp */,
 				D7A0CB2816DDE6BB002EF328 /* GameOver.h */,
 				D7ED0294174F0B4600FCF4AA /* BattleGameOver.cpp */,
@@ -5369,7 +5369,7 @@
 				D7A0CB2516DDBECA002EF328 /* GDLib.cpp in Sources */,
 				D7A0CB2616DDBECA002EF328 /* GraphDog.cpp in Sources */,
 				D7A0CB2916DDE6BD002EF328 /* GameOver.cpp in Sources */,
-				D728E79616E44DC300C36280 /* CountryRank.cpp in Sources */,
+				D728E79616E44DC300C36280 /* FriendInvite.cpp in Sources */,
 				D728E79716E44DC500C36280 /* FacebookRank.cpp in Sources */,
 				D728E79E16E588AD00C36280 /* FacebookPost.cpp in Sources */,
 				D70D55AC16E5E42F00D7D662 /* UIMediator.cpp in Sources */,

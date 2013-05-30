@@ -20,7 +20,7 @@
 #include "JsonBox.h"
 #include "UIMediator.h"
 #include "FacebookRank.h"
-#include "CountryRank.h"
+#include "FriendInvite.h"
 #include "FacebookPost.h"
 #include "Option.h"
 #include "DisableTouch.h"
@@ -51,7 +51,7 @@
 
 struct _PositionTag
 {
-	CCPoint COUNTRYRANK_FRAME;
+	CCPoint FRIENDINVITE_FRAME;
 	CCPoint FACEBOOK_FRAME;
 	CCPoint MEDAL_FRAME;
 	CCPoint GOLD_NUMBER;
@@ -96,7 +96,7 @@ struct _PositionTag
 		INTROHEAD = ccp(0, 288);
 		CONTENT = ccp(143, 144);
 		EVENT = ccp(380, 144);
-		COUNTRYRANK_FRAME = ccp(587, 145);
+		FRIENDINVITE_FRAME = ccp(587, 145);
 		FACEBOOK_FRAME = ccp(241, 145);
 		MEDAL_FRAME = ccp(378, 213);
 		GOLD_NUMBER = ccp(52, 202);
@@ -173,7 +173,7 @@ public:
 	
 	virtual void showFacebookRank();
 	virtual void showBackToFacebook();
-	virtual void showCountryRank();
+	virtual void showFriendInvite();
 	virtual void showFacebookPost();
 	virtual void showOption();
 	virtual void showGameSelect();
@@ -260,7 +260,7 @@ private:
 	CCNode* catchingColleague;
 	IntroHead* introHead;
 	FacebookRank* facebookRank;
-	CountryRank* countryRank;
+	FriendInvite* friendInvite;
 	FacebookPost* postBox;
 	Option* optionWindow;
 	MyMedal* medalWindow;
